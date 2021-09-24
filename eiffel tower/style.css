@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+body
+{
+margin: 0px;
+padding: 0px;
+background-color: white;
+font-family: Arial,Helvetica, "sans-serif";
+font-size: 18px;
+text-align: center;
+}
+
+#page
+{
+<div id = "page>
+
+
+
+max-width:800px;
+margin: 20px auto;
+padding: 30px;
+background-color: #bfa475
+}
+#header /* styles for heading */
+{
+padding: 5px;
+background-color: #655035
+text-align: center;
+}
+
+img
+{
+
+#right-column
+{
+float:right;
+width: 350px;
+text-align: left;
+}
+
+
+
+
+
+
+
