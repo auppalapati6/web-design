@@ -4,7 +4,7 @@ body
 {
 margin: 0px;
 padding: 0px;
-background-color: white;
+background-color:#bfa475;
 font-family: Arial,Helvetica, "sans-serif";
 font-size: 18px;
 text-align: center;
@@ -13,14 +13,13 @@ text-align: center;
 #page
 {
 <div id = "page>
-
-
-
 max-width:800px;
 margin: 20px auto;
 padding: 30px;
 background-color: #bfa475
 }
+
+
 #header /* styles for heading */
 {
 padding: 5px;
