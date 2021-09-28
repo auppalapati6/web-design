@@ -28,8 +28,14 @@ background-color: #655035
 text-align: center;
 }
 
-img
+#img
 {
+border: double 10px white;
+}
+
+
+
+
 
 #right-column
 {
@@ -38,7 +44,12 @@ width: 350px;
 text-align: left;
 }
 
-
+#left-column
+{
+    float:left;
+    width: 400px;
+    text-align: center;
+    }
 
 
 
